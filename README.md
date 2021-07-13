@@ -30,11 +30,16 @@ To get a local copy up and running follow these simple steps:
 
 - GitHub: [@ArthurGC](https://github.com/ArthurGC)
 
+
+👤 **Anvi Alex**
+
+- GitHub: [@Anvi98](https://github.com/Anvi98)
+
 ## 🤝 :raised_hand: :raised_hand: Contributions
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ArthurGC/awesome-books-project/issues).
+Feel free to check the [issues page](https://github.com/Anvi98/awesome-books-project/issues).
 
 ## :grey_exclamation: Acknowledgments
 
