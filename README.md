@@ -26,13 +26,13 @@ To get a local copy up and running follow these simple steps:
 
 ## Authors
 
-👤 **ArthurGC**
-
-- GitHub: [@ArthurGC](https://github.com/ArthurGC)
-
 👤 **Anvi Alex**
 
 - GitHub: [@Anvi98](https://github.com/Anvi98)
+
+👤 **ArthurGC**
+
+- GitHub: [@ArthurGC](https://github.com/ArthurGC)
 
 
 ## 🤝 :raised_hand: :raised_hand: Contributions
