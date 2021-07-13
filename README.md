@@ -6,7 +6,7 @@ In this project, We set up our Awesome Books page. Our goal was add the function
 
 ## :red_circle: Live Demo
 
-[Live Preview Link](https://arthurgc.github.io/awesome-books-project/)
+[Live Preview Link](http://anvialex.me/awesome-books-project/)
 
 ## :hammer: Built With
 
