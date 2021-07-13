@@ -2,7 +2,7 @@
 
 # Awesome Books Project
 
-In this project, We set up our Awesome Books page. Our goal was add the functionality to add/save/remove books from our DOM and localStorage using Classes and add styles to our core elements in a single page (ArthurGC Version). 
+In this project, We set up our Awesome Books page. Our goal was add the functionality to add/save/remove books from our DOM and localStorage using Classes and add styles to our core elements. 
 
 ## :red_circle: Live Demo
 
@@ -14,7 +14,7 @@ In this project, We set up our Awesome Books page. Our goal was add the function
 
 To get a local copy up and running follow these simple steps:
 
-1. Go to the [repository page](https://github.com/ArthurGC/awesome-books-project/tree/add-version-arthurgc).
+1. Go to the [repository page](https://github.com/ArthurGC/awesome-books-project/tree/add-functionality-objects).
 2. Press the "Code" button and copy the link.
 3. Clone it using git command `git clone <link>`.
 
@@ -30,16 +30,16 @@ To get a local copy up and running follow these simple steps:
 
 - GitHub: [@ArthurGC](https://github.com/ArthurGC)
 
-
 👤 **Anvi Alex**
 
 - GitHub: [@Anvi98](https://github.com/Anvi98)
+
 
 ## 🤝 :raised_hand: :raised_hand: Contributions
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Anvi98/awesome-books-project/issues).
+Feel free to check the [issues page](https://github.com/ArthurGC/awesome-books-project/issues).
 
 ## :grey_exclamation: Acknowledgments
 
